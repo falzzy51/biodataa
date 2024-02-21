@@ -35,7 +35,7 @@ span{
     width: 100%;
     height: 80px;
     position: fixed;
-    background-color: #27374D;
+    background-color: #f2b228;
     /* background-image: linear-gradient(to bottom right, rgba(255, 255, 255, 1), #F3D250, #F3D250, #F3D250, rgba(0, 0, 0,0.5)); */
     box-shadow: 0 7px 15px rgba(0, 0, 0, 0.5);
     padding-right: 5%;
