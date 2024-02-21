@@ -113,7 +113,10 @@ footer{
 }
 
 div.main{
-
+    padding: 20px
+    /* background-color: rgba(0, 0, 0, 0.1) !important; */
+    min-height: 101vh;
+    padding-top: 100px;
     background: rgb(34,193,195);
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 }
