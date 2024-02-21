@@ -155,6 +155,7 @@ div.main{
     backdrop-filter: blur( 3.5px );
     -webkit-backdrop-filter: blur( 3.5px );
     border: 1px solid rgba( 255, 255, 255, 0.18 );
+    z-index: 999;
 }
 
 .sola{
@@ -216,9 +217,9 @@ input::-webkit-inner-spin-button, input[type=number] {
 }
 
 .igroup>a>img{
-     -moz-box-shadow: 0 0 5px #e1306c;
-     -webkit-box-shadow: 0 0 5px #e1306c;
-     box-shadow: 0px 0px 5px #e1306c;
+     -moz-box-shadow: 0 0 5px white;
+     -webkit-box-shadow: 0 0 5px white;
+     box-shadow: 0px 0px 5px white;
 }
 
 .contact textarea{
