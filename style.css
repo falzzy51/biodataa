@@ -51,7 +51,7 @@ span{
 	100% {
 		background-position: 0% 50%;
 	}
-}
+});
 
 .brand{
     display: flex;
