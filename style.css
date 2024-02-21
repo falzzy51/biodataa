@@ -215,6 +215,12 @@ input::-webkit-inner-spin-button, input[type=number] {
     outline: none;
 }
 
+.igroup>a>img{
+     -moz-box-shadow: 0 0 5px #e1306c;
+     -webkit-box-shadow: 0 0 5px #e1306c;
+     box-shadow: 0px 0px 5px #e1306c;
+}
+
 .contact textarea{
     width: 100%;
     border: 1px solid #333333;
