@@ -36,7 +36,7 @@ span{
     justify-content: space-between;
     align-items: center;
     font-size: 15px;
-    width: 100%;
+    width: 110%;
     height: 80px;
     position: fixed;
     background-color: #e73c7e;
@@ -120,7 +120,7 @@ div.main{
     padding: 20px;
     background-color: #9DB2BF;
     /* background-color: rgba(0, 0, 0, 0.1) !important; */
-    min-height: 125vh;
+    min-height: 160vh;
     padding-top: 100px;
     font-family: "Poppins", sans-serif;
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
@@ -148,6 +148,7 @@ div.main{
 }
 
 .ovw{
+    min-width: 200px;
     background-color: #ffffff;
     padding: 10px 30px;
     border-radius: 20px;
