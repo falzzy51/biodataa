@@ -107,11 +107,11 @@ footer{
     align-items: center;
     font-size: 15px;
     padding-top: 20px;
-    padding-bottom: 0px;
+    bottom: 0;
     width: 100%;
     height: 50px;
     background-color: #e73c7e;
-    position: sticky;
+    position: fixed;
     box-shadow: 0 7px 15px rgba(0, 0, 0, 0.5);
     margin-top: auto; 
 }
