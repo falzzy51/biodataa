@@ -33,10 +33,11 @@ span{
 
 .wrapper{
     display: flex;
+    text-align: center;
     justify-content: space-between;
     align-items: center;
     font-size: 15px;
-    width: 110%;
+    width: 108%;
     height: 80px;
     position: fixed;
     background-color: #e73c7e;
@@ -190,7 +191,7 @@ table{
 
 }
 table, div.table th, div.table td{
-    border: black 2px solid;
+    border: black 1px solid;
     border-radius: 20px;
     text-align: center;
     padding: 0px;
