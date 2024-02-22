@@ -111,7 +111,7 @@ footer{
     width: 100%;
     height: 50px;
     background-color: #e73c7e;
-    position: absolute;
+    position: sticky;
     box-shadow: 0 7px 15px rgba(0, 0, 0, 0.5);
 }
 
